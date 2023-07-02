@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tic tac toe game</string>
+    <string name="todo">Todo</string>
+</resources>
